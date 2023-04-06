@@ -1,2 +1,4 @@
 .idea
 /chat-back/node_modules
+/chat/node_modules
+/chat/public
